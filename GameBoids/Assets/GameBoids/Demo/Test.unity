@@ -479,8 +479,8 @@ MonoBehaviour:
   MaxTurnRate: 50
   MaxForce: 50
   gizmoRate: 10
-  DynamicFriction: 5
-  StaticFriction: 10
+  DynamicFriction: 0
+  StaticFriction: 0
 --- !u!65 &2022696864
 BoxCollider:
   m_ObjectHideFlags: 0
